@@ -1,9 +1,9 @@
-public class AddIntegers {
+public class Addintegers {
 
     public static void main(String[] args) {
 
-        int first = 12;
-        int second = 20;
+        int first = 5;
+        int second = 10;
 
         System.out.println("Enter two numbers: " + first + " " + second);
         int sum = first + second;
